@@ -41,14 +41,14 @@ wa.me/${numberowner} (Owner)
            },
                {
              quickReplyButton: {
-               displayText: 'sewa',
+               displayText: 'Sewa',
                id: '.sewa',
              }
              
            },
                {
              quickReplyButton: {
-               displayText: 'Menu Hakura',
+               displayText: 'Menu Haruka',
                id: '.menu',
              }
              
