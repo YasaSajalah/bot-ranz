@@ -28,14 +28,14 @@ wa.me/${numberowner} (Owner)
            hydratedButtons: [{
              urlButton: {
                displayText: 'GroupBot',
-               url: 'https://chat.whatsapp.com/KmKlxZMWg4ZHse4XmOlfHa'
+               url: 'https://chat.whatsapp.com/KQixOnByZfx6Xe0OsJ9CNA'
              }
 
            },
                 {
                urlButton: {
                displayText: 'Myweb',
-               url: 'https://istagram.com/alwiiyy__'
+               url: 'https://istagram.com/yasaofficialaccount'
              }
 
            },
@@ -48,7 +48,7 @@ wa.me/${numberowner} (Owner)
            },
                {
              quickReplyButton: {
-               displayText: 'Menu Ranz',
+               displayText: 'Menu Hakura',
                id: '.menu',
              }
              
