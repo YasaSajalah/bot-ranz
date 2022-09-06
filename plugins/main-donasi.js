@@ -42,7 +42,7 @@ wa.me/${numberowner} (Owner)
                {
              quickReplyButton: {
                displayText: 'sewa',
-               id: '.sewaRanz',
+               id: '.sewa',
              }
              
            },
