@@ -28,7 +28,7 @@ global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/8ecdfef5fdd4ee6e1eeeb.jpg'
+global.fotonya3 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg'
 global.donasi = 'https://telegra.ph/file/d51da0d7b1419ce7ed793.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
