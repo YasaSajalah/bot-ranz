@@ -26,8 +26,8 @@ global.webm = 'https://instagram.com/yasaofficialaccount'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 20.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 25.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/HarukaChan-09-06' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/HarukaChan-09-06' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg' //ini juga ganti
 global.fotonya3 = 'https://telegra.ph/file/8ecdfef5fdd4ee6e1eeeb.jpg'
 global.donasi = 'https://telegra.ph/file/44dca72b188840a2f883b.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
