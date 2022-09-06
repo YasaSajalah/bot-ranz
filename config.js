@@ -5,25 +5,25 @@
 // RECODE BY RANZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285752300654'] 
-global.mods = ['628565337357']
-global.prems = ['6283848959158'] 
+global.owner = ['6281218100935'] 
+global.mods = ['6281218100935']
+global.prems = ['6281218100935'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝚁𝙰𝙲𝙷𝙼𝙰𝚃_𝙾𝚆𝙽𝙴𝚁_𝚁𝙰𝙽𝚉'
-global.numberowner = '6285752300654'
-global.instagram = 'https://instagram.com/alwiiyy__'
-global.github = 'https://github.com/zabux/zxynri-ranz'
-global.dana = '085752300654'
-global.pulsa = '083848959158'
-global.gopay = '08565337357'
+global.nameowner = '✧Yasa_W✧'
+global.numberowner = '6281218100935'
+global.instagram = 'https://instagram.com/yasaofficialaccount'
+global.github = 'https://github.com/YasaSajalah'
+global.dana = '081218100935'
+global.pulsa = '081218100935'
+global.gopay = '081218100935'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/GjWmVkxd3kO4kDjIGldqIe'
-global.web = 'https://github.com/zabux/zxynri-ranz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/alwiiyy__'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 25.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 25.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.namebot = '✧HarukaChan✧'
+global.gc = 'https://chat.whatsapp.com/KQixOnByZfx6Xe0OsJ9CNA'
+global.web = 'https://github.com/YasaSajalah' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/yasaofficialaccount'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 20.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 25.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg' //ganti jadi foto bot mu
@@ -32,10 +32,10 @@ global.fotonya3 = 'https://telegra.ph/file/8ecdfef5fdd4ee6e1eeeb.jpg'
 global.donasi = 'https://telegra.ph/file/44dca72b188840a2f883b.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙⳹ ❋ཻུ۪۪'
+global.wm = '© ✧HarukaChan✧'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ོۣۣۜ𝚁𝙰𝙲𝙷𝙼𝙰𝚃꧅'
-global.wm3 = 'ᯤ Oᵂηʀ᭄๖ོۣۣۜ𝚁𝙰𝙲𝙷𝙼𝙰𝚃'
+global.wm2 = 'ᯤ creator by ✧HarukaChan✧'
+global.wm3 = 'ᯤ ✧Yasa_W✧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg'
@@ -46,7 +46,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Sticker sedang Proses'
 global.packname = 'Created by'
-global.author = '𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙'
+global.author = '✧HarukaChan✧'
 
 
 
