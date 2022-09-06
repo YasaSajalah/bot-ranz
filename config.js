@@ -29,7 +29,7 @@ global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀
 global.fotonya1 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/08619136b84eec5510be2.jpg' //ini juga ganti
 global.fotonya3 = 'https://telegra.ph/file/8ecdfef5fdd4ee6e1eeeb.jpg'
-global.donasi = 'https://telegra.ph/file/44dca72b188840a2f883b.jpg' //ganti pakai poto apa aja 
+global.donasi = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ✧HarukaChan✧'
@@ -38,7 +38,7 @@ global.wm2 = 'ᯤ creator by ✧HarukaChan✧'
 global.wm3 = 'ᯤ ✧Yasa_W✧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg'
+global.media = 'https://telegra.ph/file/08619136b84eec5510be2.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
