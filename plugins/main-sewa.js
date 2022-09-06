@@ -6,11 +6,11 @@ let pulsa = global.pulsa
 let gopay = global.gopay
 let numberowner = global.numberowner
 let anu = `Hallo mypren 👋
-━━━〔 ıll *Sewa Bot Ranz* llı 〕━━㉿
+━━━〔 ıll *Sewa Bot Hakura* llı 〕━━㉿
 ━━━━━━━━━━━━━━━━━━━━
 ━━━〔 ıll *HARGA* llı 〕━━㉿
 ⬡ *1 BULAN* 5.000
-⬡ *PERMANEN 2 grup:* 10.000
+⬡ *PERMANEN 2 grup:* 15.000
 ⬡ *PERMANEN 3-6 grup:* 25.000
 ⟩» lebih dari 6 tambah +5.000
 📮 *batas scan 5 kali !*
@@ -31,7 +31,7 @@ Jika anda berminat hubungi nomor di bawah!!
 Terimakasih yang sudah mendonasikan untuk bot
 
 Contact person Sewa Bot:
-wa.me/${numberowner} (Owner Ranz)
+wa.me/${numberowner} (Owner Hakura)
 
 *Follow Instagram ku juga kak😼*`
   conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Owner', '.owner', 'Menu Ranz', '.menu', m) 
