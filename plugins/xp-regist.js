@@ -3,7 +3,7 @@ let Reg = /(.*)([.|])([0-9]*)$/i
 let handler = async function (m, { text, usedPrefix }) {
   let user = global.db.data.users[m.sender]
   let uname = conn.getName(m.sender)
-  if (user.registered === false) throw `Anda sudah terdaftar\nMau daftar ulang? ${usedPrefix}unreg <SN|SERIAL NUMBER>`
+  if (user.registered === true) throw `Anda sudah terdaftar\nMau daftar ulang? ${usedPrefix}unreg <SN|SERIAL NUMBER>`
   if (!Reg.test(text)) throw `Format salah\n*${usedPrefix}daftar ${namalu}.umur*`
   let [_, name, splitter, age] = text.match(Reg)
   if (!name) throw 'Nama tidak boleh kosong (Alphanumeric)'
@@ -14,7 +14,7 @@ let handler = async function (m, { text, usedPrefix }) {
   user.name = name
   user.age = parseInt(age)
   user.regTime = + new Date
-  user.registered = false
+  user.registered = true
   let sn = createHash('md5').update(m.sender).digest('hex')
   user.serial = sn
   
